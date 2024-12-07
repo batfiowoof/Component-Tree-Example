@@ -1,5 +1,5 @@
 import React from "react";
-import RecipeItem from "./RecipeItem";
+import RecipeItem from "./RecipeList/RecipeItem";
 
 const RecipeList = ({ recipes }) => (
   <div>
